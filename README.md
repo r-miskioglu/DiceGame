@@ -4,9 +4,10 @@
 
 This is an online dice game with a React front-end and Flask back-end.
 
-## Installation
+## Setup
 
-
+Download the Repository, inside of ./client start the front-end by typing npm run dev. Inside ./server start the back-end with py main.py.
+In Order to play now, open 2 seperate browsers, and then on one browser create a lobby, and on the other join the same lobby.
 
 ## Game Rules
 
