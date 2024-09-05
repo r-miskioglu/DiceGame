@@ -1,0 +1,9 @@
+check on client if player is still in game
+    inside the get_game function
+    also disable/enable buttons if player is on Turn
+    Winner Announcement
+    check for clean transitions and Announcements
+    Implement Public Lobbys with requests to join (?)
+    Remove Unused Lobbys
+    Stylis more
+    voting to kick someone after he is inactive for 2 long
