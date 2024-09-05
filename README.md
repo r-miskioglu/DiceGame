@@ -1,5 +1,9 @@
 # Dice Game
 
+## Description
+
+This is an online dice game with a React front-end and Flask back-end.
+
 ## Game Rules
 
 ### 1. Setup
