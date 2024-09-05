@@ -1,5 +1,7 @@
 # Dice Game
 
+## Game Rules
+
 ### 1. Setup
 - Each player starts with 5 dice.
   
